@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("明天会更好");
         System.out.println("东北");
         System.out.println("git test");
+        System.out.println("java test");
     }
 }
