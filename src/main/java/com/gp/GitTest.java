@@ -17,5 +17,6 @@ public class GitTest {
         list.add(o1);
         System.out.println(list);
         System.out.println("明天会更好");
+        System.out.println("东北");
     }
 }
